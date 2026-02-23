@@ -1,0 +1,16 @@
+[
+{
+"title": "Rule Template Test",
+"uid": "boemue-rule-template-test",
+"id" : "template-test",
+"type": "ruletemplate",
+"version" : "5.2.0-SNAPSHOT",
+"author" : "boehan",
+"maturity": "stable",
+"content_type": "application/vnd.openhab.ruletemplate",
+"url" : "https://raw.githubusercontent.com/boehan/openhab-templates/refs/heads/main/newThresholdAlert.yaml",
+"link" : "",
+"description" : "Rule template test",
+"compatible_versions" : "[5.2.0;5.2.999)"
+}
+]
